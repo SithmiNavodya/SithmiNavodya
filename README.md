@@ -4,7 +4,7 @@
 <h3 align="center">SE Undergraduate | Full-Stack Developer (MERN & Spring Boot)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=Building+scalable+web+applications;MERN+%7C+Spring+Boot+%7C+Java;4%2B+technologies+in+my+stack;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2E97F7&center=true&vCenter=true&width=500&lines=MERN+Stack;Spring+Boot+%7C+Java;Always+learning+new+things;Focused+on+AI+%26+ML" alt="Typing SVG" />
 </p>
 
 ---
@@ -52,86 +52,6 @@ Experienced in Spring Boot, React, MySQL & MongoDB.
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SithmiNavodya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SithmiNavodya&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SithmiNavodya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="45%" />
-</p>
-
----
-
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">MERN Stack Project</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x150/1e1e2f/ffffff?text=MERN+App" width="100%" alt="MERN Project"/>
-        </a>
-        <br>
-        <strong>Tech Stack:</strong> React, Node.js, Express, MongoDB
-        <br>
-        <br>
-        <a href="#" target="_blank">🔗 Live Demo</a> • 
-        <a href="#" target="_blank">📁 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Spring Boot Application</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x150/1e1e2f/ffffff?text=Spring+Boot+App" width="100%" alt="Spring Boot Project"/>
-        </a>
-        <br>
-        <strong>Tech Stack:</strong> Java, Spring Boot, MySQL
-        <br>
-        <br>
-        <a href="#" target="_blank">🔗 Live Demo</a> • 
-        <a href="#" target="_blank">📁 Repository</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Python Project</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x150/1e1e2f/ffffff?text=Python+App" width="100%" alt="Python Project"/>
-        </a>
-        <br>
-        <strong>Tech Stack:</strong> Python, [Framework/Library]
-        <br>
-        <br>
-        <a href="#" target="_blank">🔗 Live Demo</a> • 
-        <a href="#" target="_blank">📁 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">JavaScript Application</h3>
-      <p align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/300x150/1e1e2f/ffffff?text=JS+App" width="100%" alt="JavaScript Project"/>
-        </a>
-        <br>
-        <strong>Tech Stack:</strong> HTML, CSS, JavaScript
-        <br>
-        <br>
-        <a href="#" target="_blank">🔗 Live Demo</a> • 
-        <a href="#" target="_blank">📁 Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📫 Connect With Me
 
 <p align="center">
@@ -144,27 +64,12 @@ Experienced in Spring Boot, React, MySQL & MongoDB.
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://github.com/SithmiNavodya/SithmiNavodya/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SithmiNavodya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." – Cory House</i>
 </p>
 
 <p align="center">
